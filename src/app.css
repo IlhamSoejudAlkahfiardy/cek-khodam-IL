@@ -1,0 +1,12 @@
+/* src/App.css */
+.regular-font {
+  font-weight: 400; /* Regular */
+}
+
+.medium-font {
+  font-weight: 500; /* Medium */
+}
+
+.bold-font {
+  font-weight: 700; /* Bold */
+}
