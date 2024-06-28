@@ -10,8 +10,8 @@ const Footer = () => {
             <p className='font-medium text-slate-200 tracking-wider'>By Alkahfiardy</p>
             <p className='font-medium text-slate-200 tracking-wider'>|</p>
             <p onClick={() => openLink('https://www.instagram.com/ilhamsoejud/')} className='font-medium text-slate-200 tracking-wider hover:cursor-pointer'>Instagram</p>
-            <p className='font-medium text-slate-200 tracking-wider'>|</p>
-            <p className='font-medium text-slate-200 tracking-wider'>Github</p>
+            <p className='font-medium text-slate-200 tracking-wider '>|</p>
+            <p onClick={() => openLink('https://github.com/IlhamSoejudAlkahfiardy/cek-khodam-IL')} className='font-medium text-slate-200 tracking-wider hover:cursor-pointer'>Github</p>
         </div>
     )
 }
